@@ -14,3 +14,5 @@ I then tried to experiment with pre-filtering the image to get a better result f
 ![Alt text](./samples/sample.jpg)
 
 ![Alt text](./samples/sample_output.png)
+
+image in Ascii made with pango-view from the text file generated as output by the program.
