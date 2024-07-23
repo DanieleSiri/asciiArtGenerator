@@ -10,5 +10,5 @@ I started working with the basic idea of calculating each pixel's RGB value and 
 I then tried to experiment with pre-filtering the image to get a better result for edges by using first the Sobel filter (which wasn't enough alone), and then both the Difference of Gaussians + the Sobel filter. To this day this method still hasn't been fine tuned, but one day I might come round and eventually get the hang of it!
 
 <h3>Results</h3>
-![plot](./samples/sample.jpg)
-![plot](./samples/sample_output.png)
+![Alt text](./samples/sample.jpg)
+![Alt text](./samples/sample_output.png)
